@@ -1,5 +1,5 @@
-# MTech-Thesis
-Repository for the work during my mtech thesis
+# GAN for anomaly Detection in energy time sereis data
+Repository for the work GAN for anomaly Detection in energy time sereis data
 
 ## LEAD Dataset
 
